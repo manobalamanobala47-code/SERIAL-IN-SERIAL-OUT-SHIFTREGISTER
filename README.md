@@ -25,7 +25,11 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **Procedure**
 
-/* write all the steps invloved */
+Open Quartus and create a new Verilog file.
+Copy and paste the corrected code and save the file.
+Compile the program to check for errors.
+Generate the RTL schematic and timing diagram.
+Simulate the design to verify the serial shift operation.
 
 **PROGRAM**
 
